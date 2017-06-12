@@ -1,0 +1,19 @@
+{
+  "name": "@wizardsoftheweb/vcsify-json",
+  "version": "1.0.0",
+  "description": "Super simple parser that makes committing JSON easier",
+  "main": "index.js",
+  "scripts": {
+    "test": "cross-env NODE_ENV=test nyc mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thecjharries/vcsify-json.git"
+  },
+  "author": "CJ Harries <cj@wizardsoftheweb.pro>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thecjharries/vcsify-json/issues"
+  },
+  "homepage": "https://github.com/thecjharries/vcsify-json#readme"
+}
